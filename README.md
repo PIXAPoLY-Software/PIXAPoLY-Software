@@ -1,8 +1,10 @@
-- PIXAPoLY Software -
+ - PIXAPoLY Software -
 
-Fun indie games for people who like having fun and useful apps for developers and creators
+Cool personal engineering projects and games :)
 
-http://rebrand.ly/Pixapoly
+http://pixapoly.carrd.co
+
+You can find all of my other projects above!
 
 Also somehow known for breaking boundaries in Scratch with the release of PolyOS
 
